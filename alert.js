@@ -1,4 +1,4 @@
-var i;
-for (i = 0; i < cars.length; i++) { 
+for (let step = 0; step < 999999999999999999; step++) {
   alert("Why are you even here?");
 }
+
